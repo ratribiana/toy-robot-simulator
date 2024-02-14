@@ -66,10 +66,16 @@ Output: 3,3,NORTH
 
 ## ⚒ How to Install
 
-Go to the backend directory and install the dependencies:
+Clone the repo:
 
 ```bash
-$ cd backend
+$ git clone --depth 1 git@github.com:ratribiana/toy-robot-simulator.git
+```
+
+Go to the directory and install the dependencies:
+
+```bash
+$ cd toy-robot-simulator
 $ npm install or yarn install
 ```
 
